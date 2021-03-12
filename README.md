@@ -1,11 +1,9 @@
 # Machine Learning Projects
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
-![ML](readme-resources/machine-learning.png)
 
 ## Why this repository?
 • The main purpose of making this repository is to keep all my Machine Learning projects at one place, hence keeping my GitHub clean!<br/>
-• It looks good, isn't it?
 
 ## Overview
 • This repository consists of all my Machine Learning projects.<br/>
