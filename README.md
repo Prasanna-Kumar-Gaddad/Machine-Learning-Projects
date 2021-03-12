@@ -30,4 +30,3 @@
 • _Extreme Gradient Boosting (XGBoost)_<br/>
 • _Voting (Hard/Soft)_<br/>
 
-**Do ⭐ the repository, if it helped you in anyway.**
